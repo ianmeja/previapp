@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319462403831",
+    "firebase_url": "https://previapp-2bcc1-default-rtdb.firebaseio.com",
+    "project_id": "previapp-2bcc1",
+    "storage_bucket": "previapp-2bcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319462403831:android:5bbe5f96523dac68c12df2",
+        "android_client_info": {
+          "package_name": "com.example.previapp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319462403831-ka1u4t4tn8q88ssp5pb5kat11r1iqaac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7EJfHUs6JHoOXJGIUSAydXhRmqfdy5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319462403831-ka1u4t4tn8q88ssp5pb5kat11r1iqaac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319462403831-a7cjc1pnhftovkt57ju78it77uq9lp5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.previappApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
